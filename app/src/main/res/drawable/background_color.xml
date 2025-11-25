@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Tatlı bir gün batımı/şeker pembesi geçişi -->
+    <gradient
+        android:startColor="#FF1F22"
+        android:centerColor="#FFF4F4"
+        android:endColor="#007AFF"
+        android:angle="45" />
+</shape>
